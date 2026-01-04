@@ -1,2 +1,1 @@
-# glebia-warsztaty.github.io
-website
+# website
